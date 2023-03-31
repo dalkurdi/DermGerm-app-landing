@@ -36,10 +36,10 @@ youtube_username                          :
 features                                  :
     
   - title                                 : Patient-Facing, Dermatology In-Clinic App
-    description                           : For dermatology clinics' or patients' mobile devices to help educate patients about their conditions and wound care and assist in the routine data collection process during their general and surgical dermatology visits.
+    description                           : For dermatology clinics' or patients' mobile devices to help educate patients and assist during and after their general and surgical dermatology visits.
     fontawesome_icon_name                 : mobile
   
-  - title                                 : Dermatology Education
+  - title                                 : Dermatology and Wound Care Education
     description                           : Repository of common concerns and questions for general and surgical dermatology patients.
     fontawesome_icon_name                 : star
     
