@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : star
     
   - title                                 : Visit Survey
-    description                           : Patients can complete a temporary, anonymous, and unshared survey about their medical history and visit and share the results on the device with their clinical staff.
+    description                           : Patients can complete a temporary, anonymous, and unshared survey about their medical history and visit and share the results on the device with their medical assistant or provider.
     fontawesome_icon_name                 : sync
 
   - title                                 : DermGerm Support
