@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
     
   - title                                 : Patient-Facing, Dermatology In-Clinic App
-    description                           : Downlaod this app on dermatology clinic iPads or patient devices to help educate patients and assist in the routine data collection process during the visit.
+    description                           : For dermatology clinic iPads or patient devices to help educate patients about their conditions and wound care and assist in the routine data collection process during their general and surgical dermatology visits.
     fontawesome_icon_name                 : mobile
   
   - title                                 : Dermatology Education
