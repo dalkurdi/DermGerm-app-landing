@@ -11,7 +11,7 @@ presskit_download_link                    : https://twitter.com/DermGermApp     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : SkinKit (Formerly DermGerm)              # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : SkinKit                                 # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : In-Clinic Dermatology Info and Patient Visit Walkthrough.
 
@@ -51,8 +51,8 @@ features                                  :
     description                           : See the Press Kit, twitter, or email links below to contact us or for support.
     fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
+  - title                                 : YouTube Preview
+    description                           : Can't download but want to see the app? This [link](https://youtu.be/2svzwF1RyoA) contains a YouTube video of a screenrecording of the app.
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
