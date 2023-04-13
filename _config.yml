@@ -52,8 +52,8 @@ features                                  :
     fontawesome_icon_name                 : info-circle
 
   - title                                 : YouTube Preview
-    description                           : Can't download but want to see the app? This [link](https://youtu.be/2svzwF1RyoA) contains a YouTube video of a screenrecording of the app.
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+    description                           : Can't download but want to see the app? This <a href="https://youtu.be/2svzwF1RyoA">link</a> contains a YouTube video of a screenrecording of the app.
+    fontawesome_icon_name                 : youtube # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
